@@ -1,1 +1,1 @@
-alert("Hello World")
+alert("Começando meus estudos com JS")
