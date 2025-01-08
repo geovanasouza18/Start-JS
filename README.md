@@ -5,5 +5,6 @@ Este projeto foi desenvolvido como parte de um curso na One Bit Code, focado na 
 
 
 
-Uploading lv_0_20241117225701 (1).mp4…
+https://github.com/user-attachments/assets/1328f550-0995-4fc6-982a-bc8e9ec4e3eb
+
 
